@@ -6,5 +6,5 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	cout << "Ты кто такой чтоб это делать?";
-
+	cout << "Ухади!";
 }
